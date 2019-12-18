@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07334810-7018-4ccf-a403-11972d41e495" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ProjectId" id="1V6Bc7CNmoscuHJzlQsKD85xD3c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main/templates/main/includes" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main/templates/main/includes" />
+      <recent name="$PROJECT_DIR$/main/templates/main" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07334810-7018-4ccf-a403-11972d41e495" name="Default Changelist" comment="" />
+      <created>1576563740959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576563740959</updated>
+      <workItem from="1576593816467" duration="101000" />
+      <workItem from="1576593940242" duration="148000" />
+      <workItem from="1576646755134" duration="10677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="673" y="335" width="564" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576582230566">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="673" y="335" width="564" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1008/1920.0.1920.1080@0.27.1920.1008" timestamp="1576582230566" />
+    <state x="2671" y="294" width="424" height="513" key="FileChooserDialogImpl" timestamp="1576649446399">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="751" y="301" width="424" height="513" key="FileChooserDialogImpl/0.27.1920.1008/1920.0.1920.1080@0.27.1920.1008" timestamp="1576593978412" />
+    <state x="2671" y="294" key="FileChooserDialogImpl/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576649446399" />
+    <state x="457" y="193" key="SettingsEditor" timestamp="1576594023408">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="457" y="193" key="SettingsEditor/0.27.1920.1008/1920.0.1920.1080@0.27.1920.1008" timestamp="1576594023408" />
+    <state x="616" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1576646757667">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="616" y="358" key="com.intellij.ide.util.TipDialog/0.27.1920.1008/1920.0.1920.1080@0.27.1920.1008" timestamp="1576646757666" />
+  </component>
+</project>
