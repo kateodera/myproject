@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07334810-7018-4ccf-a403-11972d41e495" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/templates/main/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/templates/main/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/templates/main/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/templates/main/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/templates/main/includes/messages.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/templates/main/includes/messages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/templates/main/includes/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/templates/main/includes/navbar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +66,7 @@
       <updated>1576563740959</updated>
       <workItem from="1576593816467" duration="101000" />
       <workItem from="1576593940242" duration="148000" />
-      <workItem from="1576646755134" duration="12223000" />
+      <workItem from="1576646755134" duration="15128000" />
     </task>
     <servers />
   </component>

@@ -9,5 +9,8 @@ class Tutorial(models.Model):
     tutorial_content = models.TextField()
     tutorial_published = models.DateTimeField("date published", default=datetime.now)
 
+    class Meta:
+        verbose_name_plural = "Tutorials"
+
     def __str__(self):
         return self.tutorial_title
